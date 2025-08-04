@@ -37,5 +37,6 @@ This will generate `final.docx` with proper Packt Publishing formatting.
 
 ## Future Improvements
 
+- **Inline code**: This isn't working right now.
 - **Ruby-only pipeline**: Replace the Python script with a Ruby equivalent to eliminate the Python dependency and create a pure Ruby solution
 - **Markdown preprocessing**: Add a cleanup step at the beginning to standardize and clean up markdown formatting before conversion
