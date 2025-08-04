@@ -1,0 +1,27 @@
+# Output directories
+output/
+tmp/
+
+# Word document temporary files
+~$*.docx
+~$*.doc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Log files
+*.log
